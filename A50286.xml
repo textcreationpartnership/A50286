@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Matters of fact in the present election of sheriffs, for the year ensuing, faithfully reported and the micarriages of my lord mayor and some other persons in this matter, briefly declared.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50286</idno>
+            <idno type="STC">Wing M1304</idno>
+            <idno type="STC">ESTC R10733</idno>
+            <idno type="EEBO-CITATION">13568043</idno>
+            <idno type="OCLC">ocm 13568043</idno>
+            <idno type="VID">100339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Matters of fact in the present election of sheriffs, for the year ensuing, faithfully reported and the micarriages of my lord mayor and some other persons in this matter, briefly declared.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100339:1" rendition="simple:additions"/>
+            <head>THE MATTERS of FACT In the Preſent Election of SHERIFFS, For the Year Enſuing, Faithfully Reported: And the Miſcarriages of my <hi>LORD MAYOR</hi> and ſome other perſons in this Matter, briefly declared.</head>
+            <p>THE open and bold invaſion made upon the Liberties and Franchiſes of the City, and that attended with a contempt of the Laws of the Land, as well as the An<g ref="char:EOLhyphen"/>cient Cuſtoms and Uſages of the Corporation, doth not only ſerve to juſtifie our complaining of the Rape committed upon the Rights and Priviledges of the Free-men of <hi>London,</hi> but invites us to detect and lay open the unreaſonable as well as illegal ways and methods that have been taken for the overthrow of whatſoe<g ref="char:EOLhyphen"/>ever we enjoy either by Law, Preſcription, or Charter. For as the Electing of Sheriffs is grant<g ref="char:EOLhyphen"/>ed by Charters, and confirmed by divers Laws to the Citizens of <hi>London;</hi> ſo the conducting the Election, and declaring upon whom the choice through the majority of Votes does fall, hath time out of mind appertained unto, and been claimed by the Sheriffs. And tho the Common-Hall be not properly a Court, ſave for the puniſhing my Lord Mayor and Aldermen when they tranſ<g ref="char:EOLhyphen"/>greſs againſt the duties of their Places, and the Truſts repoſed in them; yet not only the Right of Electing Sheriffs is in that Aſſembly and Convention, but the power of appointing the manner in which they will have the Election managed, does intirely reſide in the Members who conſtitute that great Convocation: Yea ſo far is my Lord Mayor from having either a Negative upon the Hall, or a Right to preſcribe unto the Citizens whom they ſhall chuſe, that he hath not ſo much as Power and Authority to take the Suffrages of the Electors, or to Adjourn or Diſſolve the Hall, without the leave and conſent of the greater number of the Free-men, then and there pre<g ref="char:EOLhyphen"/>ſent. And as all this hath been declared and irrefragably demonſtrated in ſeveral Papers already Publiſhed; ſo it hath been affirmed under the hands of as good Lawyers as are in <hi>England,</hi> and particularly of thoſe Gentlemen whom the City have thought worthy to be entruſted in the de<g ref="char:EOLhyphen"/>fending their Charter againſt the <hi>Quo Warranto,</hi> put in for the ſeiſure of it.</p>
+            <p>But in defiance of all that hath been ſaid, ſuch is the eaſineſs of my Lord Mayor (to ſay no worſe) that he hath ſuffered himſelf to be prevailed upon to deſpiſe Law, violate Charters, and act in direct oppoſition to the duty of his place, and all this for the gratifying of thoſe who have not only commenced a Suit for the ſubverſion of the Corporation, but openly profeſt that they ſeek the deſtruction of its beſt and moſt Honorable Members. And as the recounting the chief heads of the matter of Fact is indiſpenſably neceſſary for the information of the preſent, as well as future Ages; ſo the bare rehearſal of thoſe things, will fill the World with amazement, as well as proclaim the Guilt of ſome perſons, both to this and following Generations.</p>
+            <p>And that which offereth it ſelf firſt to our notice, is the acceſſion of ſome <hi>Miniſters</hi> to my Lord Mayor to procure him to Drink to Mr. <hi>North,</hi> which his Lordſhip without the leaſt con<g ref="char:EOLhyphen"/>ſideration of that Gentlemans fitneſs for the Place, or any attendance to the Deſign in ſubſer<g ref="char:EOLhyphen"/>viency whereunto that motion was made unto him, firſt tamely complyed with, and afterwards performed, notwithſtanding the conſequences which would thereupon enſue, were faithfully repreſented unto him.</p>
+            <p>The next ſtep which his Lordſhip took in purſuance of the like advice, was to run counter, not only to ancient uſage, but to an <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of Common Council, 7 <hi>Car.</hi> 1 in ſending for Mr. <hi>North,</hi> and making him Seal a Bond to hold Sheriff for the year enſuing, before he was ſo much as named or propoſed to the Common-Hall, that was not till <hi>Midſummer-day,</hi> which was ſome weeks after my Lord Mayor had cauſed him under the forfeiture of 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> to undertake to ſerve.</p>
+            <p>The third advance made by Sir <hi>John Moor</hi> againſt the Duty of his place, and the Cuſtoms of
+<pb n="2" facs="tcp:100339:2"/>the Corporation, was his altering the form of the Precepts for the ſummoning the Common-Hall againſt the 24 of <hi>June.</hi> And it is remarkable that whereas not only by the Charters, the Citi<g ref="char:EOLhyphen"/>zens are to meet to chuſe annually from among themſelves Sheriffs, but that all former Precepts r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in a ſtrain, importing their being to aſſemble to Elect Sheriffs; the preſent Mayor did by an Unpreſidented and Arbitrary Power, ſummon them to Conveen to confirm one Sheriff whom he has drunk unto, and to chuſe another.</p>
+            <p>Nor could his Lordſhip ſtop his Irregularities here, but both after a Declaration upon whom the Election had fallen through the majority of Hands, and after the Poll which had been de<g ref="char:EOLhyphen"/>mande<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and wherein himſelf had acquieſced, was peaceably and fairly carrying on, he came attended with a Company of men, whereof many were not Free-men, divers were armed with Swords, and ſeveral were known Papiſts, and not only interrupted the Poll, but contrary to Law and Right, aſſured to himſelf a power of Adjourning the Hall.</p>
+            <p>And having thus far embarkt in ſiniſtruous and unjuſtifiable ways, his next proceeding was partly by himſelf, and partly by Citizens whom he countenanced to miſinform His Majeſty, and contrary both to Truth and his own Knowledg, to abuſe the King in cauſing him to believe that divers peaceable perſons had been guilty of a Riot; upon which miſ report as the two pre<g ref="char:EOLhyphen"/>ſent Sheriff, were committed to the <hi>Tower,</hi> ſo the principal blame of it muſt be imputed to his Lordſhip. And as it is the firſt inſtance on the File of Hiſtory, of perſons being Indicted of a Riot, when lawfully Aſſembled together, and quietly proceeding in that which they met about; So I queſtion whether our Law-Books furniſh one Example of the Council-Boards committing two Officers whoſe Place and Duty it was to manage the Poll, and govern the Aſſembly, not only without the hearing of any to ſpeak in their behalf, but in a Caſe, the Cogniſance whereof belongs to the Courts of Common Law.</p>
+            <p>But his Lordſhips illegalities hitherto had been both aſcribed to the aſcendancy which ſome had gotten over him, and had been eaſily pardoned, had they terminated here, but it ſeems he was too far engaged to retreat, and therefore his next Step was to take upon him, contrary to Senſe and Common Reaſon, as well as Law, to Adjourn the Common-Hall <hi>July</hi> 5th, not only by a Gentleman who being no Free man, could not be ſubſtituted his Lordſhips Deputy, or <hi>locum te<g ref="char:EOLhyphen"/>nens;</hi> but by words <hi>ſignifying only a deſire that they would adjourn,</hi> which did not import the ad<g ref="char:EOLhyphen"/>journing of them, but left it to themſelves whether they would do ſo, yea or not. And accord<g ref="char:EOLhyphen"/>ingly the Hall without whoſe conſent they cannot be adjourned nor diſſolved by any till they have finiſhed the buſineſs about which they are aſtembled, not only refuſed to be adjourned, but requir<g ref="char:EOLhyphen"/>ed the Sheriffs to go on with the Poll. Which as it was managed with all prudence, and not ſhut up till after more than uſual and due Proclamation; yet his Lordſhip would not reſt ſatisfied with what was then done (meerly, as is to be ſuppoſed, becauſe the Election fell upon Mr. <hi>Papillon</hi> and Mr. <hi>Duboiſe</hi>) and therefore obtained an Order from the King for a New Hall. For miſſing what he had deſigned, in getting <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he preſent Sheriffs turned out by a Convention intended to have been made up of one party of men (which would have been called a Common-Hall) had not other Citizens upon ſmelling the project aſſemble<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without warning, he had no other Retreat left, but to apply to his Majeſty for an Order to begin again. And tho we have nothing to ſay concerning his Majeſties Order, ſave that the p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing it for <hi>C. R.</hi> by which perſons upon the firſt view are apt to think they meant <hi>Charles Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> did not expreſs that veneration for Majeſty as is fit; yet we muſt take the liberty to charge my Lord Mayor, That after he had ſo often interrupted the Election, and bro<g ref="char:EOLhyphen"/>ken in upon the fre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dom of the Cities choice, he did at laſt labour, and as much as in him lay, com<g ref="char:EOLhyphen"/>paſs the diſſolving and cancelling of an Election that had been duly made.</p>
+            <p>To this we may add his Lordſhips refuſing to hear divers Citizens ſpeak, when the Hall firſt aſ<g ref="char:EOLhyphen"/>ſembled on <hi>Friday</hi> morning, and he was upon the <hi>Huſtings,</hi> tho it be his Duty to hear every man that hath any thing to offer, and it be their Right and Priviledg to ſay whatſoever they will, provided it be agreeable to the matter before them, and within the bounds and compaſs of Law.</p>
+            <p>Nor can there be a greater evidence of the unreaſonableneſs both of the faction whom his Lordſhip hath eſpouſed in this whole matter, and of his indiſcretion in heading ſuch a bruitiſh, as well as a violent ſort of men, than their refuſing to ſuffer an <hi>Act of Parliament to be read,</hi> tho often propoſed ſo to be; and this after the whole Hall had hearkened to the reading of His Ma<g ref="char:EOLhyphen"/>jeſties Order, with the greateſt reſpect, and profoundeſt ſilence imaginable.</p>
+            <p>And in the next place, how can my Lord Mayor anſwer either to God, or his own Conſci<g ref="char:EOLhyphen"/>ence, in keeping ſo many thouſands together from Nine in the morning, till paſt Six in the even<g ref="char:EOLhyphen"/>ing, when divers contracted ſickneſs, and ſome loſt their lives, by reaſon of the exceſſive heat, without coming to a reſolve in himſelf, whether he would acquieſce in the Election that was de<g ref="char:EOLhyphen"/>clared on <hi>Wedneſday</hi> before, or whether he would inſiſt either upon a new Poll, or plead his ha<g ref="char:EOLhyphen"/>ving choſen one Sheriff by drinking to him, and that all which he would allow the Commons, was to elect another.</p>
+            <p>However, as we may underſtand the capacity of the man, by his having his Gown many times on, to come down upon the <hi>Huſtings,</hi> and pretend to adjourn the Hall, and as often off, as willing to reſt contented in the choice of Mr. <hi>Papilion,</hi> and Mr. <hi>Duboiſe,</hi> which the Sheriffs had
+<pb n="3" facs="tcp:100339:2"/>declared two days before, with all the wonted ſolemnity; ſo his ſending for for Sir <hi>G. Jefferies,</hi> and Mr. <hi>Saunders,</hi> known enemies to the City Rights, and profeſſedly for the overthrow of the Charter, to adviſe him, and his ſubmitting to their Opinions, which they durſt not ſubſcribe, againſt the Judgment, as well as the irrefragrable Reaſons of the Recorder, Mr. <hi>Polexfen,</hi> and Mr. <hi>Williams,</hi> who ſignified their readineſs to put their hands to what they ſaid, are things which he will not be able to account for, either before a Parliament, or at the Bars in <hi>Weſtminſter-Hall.</hi>
+            </p>
+            <p>And what will the world think of his taking his laſt reſolution from a Letter which he received from a Miniſter of State, ſeeing as it is an high offence againſt the Statute of <hi>Weſtminſter,</hi> 3 <hi>Ed.</hi> 1. to interpoſe in, or diſturb the Election of any Officers; ſo it is a high offence againſt the truth repoſed in him, and the integrity of a Lord Mayor of <hi>London,</hi> to take any other meaſures th<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hat are agreeable to the ſafety and welfare of the City.</p>
+            <p>A<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>o we want a name whereby to call his Lordſhips retracting his word, after he had con<g ref="char:EOLhyphen"/>ſented <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the having the Poll go on a new, for two to be choſen out of the Four who had been named, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e queſtion not but to ſee a Judicature in <hi>England,</hi> that will both know by what Title to ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to call him to an account for renouncing all Faith, as well as Juſtice. For it is obſervable, that he had not only agreed on <hi>Friday</hi> night, to have the Poll proceed for the Election of Two out of Four, but he renewed his agreement as to that particular, to divers worthy Citizens, on <hi>Saturday</hi> morning. But what ſhall be ſaid of a man who upon tbe coming of Sir <hi>L. J.</hi> receded from his Word, as well as from Law and City-Cuſtom. Yea, it is no ſmall aggravation of his Crime, that he re-aſſumed the pretence of his having choſen one Sheriff by v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtue of his P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rogative, after he had heard the Secretary affirm, that they muſt take that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourſe, tho <hi>rueret Coelum,</hi> all things ſhould <hi>run into confuſion.</hi> And ſhould his Lordſhips Memo<g ref="char:EOLhyphen"/>ry fail him, either as to the Polls being demanded for all Four, or as to his granting it, there are ſeveral perſons who are able to remember it, and whoſe words are beyond all ſuſpition of fal<g ref="char:EOLhyphen"/>ſhood.</p>
+            <p>The next thing whereof we may juſtly accuſe my <hi>Lord Mayor,</hi> is his uſurping the managing of the Poll, not only againſt Law and uſage, but when the Common-Hall had devolved it upon, and lodged it in the Sheriffs. For ſuch was the modeſty of thoſe worthy Gentlemen, that they would not undertake it, tho Cuſtum would have juſtified them in doing ſo, till they had conſulted the Hall, and been empowered by them, as thoſe in whom the Authority does reſide over all Af<g ref="char:EOLhyphen"/>fairs which come before them. Here is an Arbitrary Power with a witneſs, not only to claim what his Anceſtors never did, and which conſtant uſage directly gainſays, but to do it in oppoſi<g ref="char:EOLhyphen"/>tion to the vote of three parts in four of the Hall, who entruſted the Sheriffs with the taking the Suffrages, and declaring the Election.</p>
+            <p>And as he who engageth once in illegal courſes, knows not where he ſhall ſtop, ſo his Lord<g ref="char:EOLhyphen"/>ſhip having advanced thus far without fear in himſelf, or Law to countenance him, pro<g ref="char:EOLhyphen"/>ceeded farther in taking the boldneſs to declare Mr. <hi>North</hi> Sheriff, not only without his being confirmed, but when 2414. Citizens had expreſly declared and polled againſt his Confirma<g ref="char:EOLhyphen"/>tion</p>
+            <p>Nay, as it this had not been the height of Extravagancy, his Lordſhip pretends to declare Mr. <hi>Box</hi> Sheriff, tho he had not 1400 Hands; whereas Mr. <hi>Papillon,</hi> and Mr. <hi>Duboiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had up<g ref="char:EOLhyphen"/>wards of 2400 in the Sheriffs Books, beſides ſome hundreds that polled for them in thoſe that were ſtiled his Lordſhips. So that he hath rob'd the Freemen of the Right of chuſing both the Sheriffs; and inſtead of propoſing only one to them, whom they may confirm or not, as they ſee good, he hath by an arbitrary, and illegal power, aſſumed unto himſelf the impoſing two upon them, againſt their will and conſent.</p>
+            <p>It were needleſs to recount all my Lord Mayors Miſcarriages in this Affair; ſuch as not only his denying divers worthy Citizens who were for Mr. <hi>Papillon</hi> and Mr. <hi>Duboiſe,</hi> acceſs unto him, when his houſe was free and open to thoſe of the contrary party; but the ſuffering ſeveral of the beſt quality to be affronted and aſſaulted, if not in his vety preſence, at leaſt within his gates. And as if it had not been contrary to the duty of his Office as well as the wiſdom of a man, to give up himſelf implicitely to the government and conduct of Sir <hi>L. J.</hi> he not only permitted that perſon to be preſent at his diſcourſe with ſeveral Free-men that came to him about the priviledges and Franchiſes of the City; but he connived at and allowed that Miniſter in checking and rebu<g ref="char:EOLhyphen"/>king ſome Gentlemen who had the courage in his hearing to claim their Rights.</p>
+            <p>Surely as his Lordſhip hath taken no notice of what befel Sir <hi>Samuel Sterling,</hi> and Sir <hi>Edward Bromfield,</hi> for Offences not neer ſo heinous as thoſe he is guilty of, ſo he never read of one Sir <hi>Ni<g ref="char:EOLhyphen"/>cholas Brember</hi> Lord Mayor of <hi>London,</hi> that was condemn'd to be hang'd in <hi>Richard</hi> the 2d's time,<note place="margin">Knighten.</note> and with much a do, upon the Kings interceſſion, had the favout to be beheaded; and this for neg<g ref="char:EOLhyphen"/>lecting the duty of his place, and acting conformably to the <hi>dictates of Court Miniſters;</hi> particul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly for undertaking at the pleaſure of the King, to be Mayor without the conſent, and againſt the will of the Citizens. And as this may inſtruct Sir <hi>John Moor</hi> what he may in due time expect; ſee<g ref="char:EOLhyphen"/>ing the impoſing ſuch Officers as Sheriffs upon the City, not only without the concurrence, but againſt the Declaration of the Free-men, is a much greater Crime than the ſerving Mayor at the
+<pb n="4" facs="tcp:100339:3"/>Command of the King, without their conſent; ſo it may forewarn Mr. <hi>North</hi> and Mr. <hi>Box</hi> what is likely to befall them, if they take upon them the Office of Sheriffs againſt the Will of the Citizens. For if King <hi>Richards</hi> requiring Sir <hi>Nicholas Brember</hi> to hold Mayor without being duly Elected, could not ſave his Head from the Block, much leſs can Sir <hi>John Moors</hi> calling theſe Gen<g ref="char:EOLhyphen"/>tlemen forth to the Office of <hi>Sheriffs,</hi> protect them from the Puniſhment to which by the Law they ſhall be found liable for ſo doing. And as they will be bold men that will undertake the Office of <hi>Sheriffs</hi> upon the bare Authority of my Lord Mayors word; ſo I know not how the preſent <hi>Sheriffs</hi> can reſign the Goals, <hi>&amp;c.</hi> unto ſuch perſons who pretend to the Office of <hi>She<g ref="char:EOLhyphen"/>riffs</hi> by no better Right.</p>
+            <p>Nay, I will be bold to ſay, That ſhould my Lord Mayor and the Court of Aldermen have the confidence to ſwear Mr. <hi>North</hi> and Mr. <hi>Box,</hi> on <hi>Michaelmas</hi> Eve, that the Common-Hall may Vote them out, and chuſe others in their Room on <hi>Michaelmas</hi> day.</p>
+            <p>But it is pleaſant to obſerve how this pretended Election of <hi>North</hi> and <hi>Box</hi> for Sheriffs, againſt the enſuing Year, works already with the Papiſts and our <hi>Maſquerade Proteſtants:</hi> for they not only begin to talk of blaſting the belief of the Popiſh Plot, but of Hanging Proteſtants by Whole<g ref="char:EOLhyphen"/>ſale. And whereas Mr. <hi>Duncomb</hi> was contented a few days ago with the Lives of 9 or 10; nothing leſs will now ſerve them than the deſtroying of Scores, if not Hundreds, and this with<g ref="char:EOLhyphen"/>in the compaſs of <hi>London</hi> and <hi>Middleſex.</hi>
+            </p>
+            <p>However, this we have to rely upon, that whereas Mr. <hi>North</hi> had only 107 hands, and Mr. <hi>Box</hi> 1353 in all the Books, Mr. <hi>Papillon</hi> and Mr. <hi>Dubois</hi> had upwards of 2700 Hands a piece, reckoning in my Lord Mayors Books with thoſe of the Sheriffs, and were Proclaimed to be du<g ref="char:EOLhyphen"/>ly Elected by the proper Officers.</p>
+            <p>And as we cannot think that the King will connive at ſo unjuſt a thing, and which ſo direct<g ref="char:EOLhyphen"/>ly ſubverts all the Laws, by which he hath ſworn to Govern; ſo we are aſſured that the Judges in His Majeſties Courts, will eſteem no puniſhments ſevere enough, as well for them that ſhall act as Sheriffs by no better Warrant, as for him that hath taken upon him to declare them for ſuch, againſt all Law, as well as Preſident.</p>
+            <p>And as my Lord Mayor may be already ſenſible, how his Fellow-Citizens reſent his late illegal carriage and behaviour towards them, by the many Actions entred againſt him, to which they have demanded appearance ſo he will find, that all that is hither done in order to right them<g ref="char:EOLhyphen"/>ſelves, and chaſtiſe his uſurpation upon their Franchiſes, is but like a few drops before a ſtorm, in compariſon of what he muſt afterwards look for.</p>
+            <p>Nor muſt Sir <hi>J. E.</hi> and Sir <hi>W. P. &amp;c.</hi> think to eſcape being called to an account, not only for abetting the Mayor in all theſe Invaſions upon the Priviledges of the City, but for exciting him unto, and hurrying him upon them. And as it is evident what eſteem they have of his Lordſhip, by uſing him as a Tool to do ſuch unjuſtifiable and enormous things, which were they themſelves in the Chair, they would neither have the boldneſs nor indiſcretion to attempt; ſo their thus managing a perſon whom they ſtile their Friend, as well as one to whom they are bound by their Oaths to give ſafe and good Advice, rendreth them Offenders againſt Truth, Ju<g ref="char:EOLhyphen"/>ſtice, and the Rules of Friendſhip, as well as againſt the Rights of the Corporation and their own Oath.</p>
+            <p>And as for the <hi>Common Sergeant,</hi> and the <hi>Common-Cryer,</hi> they ought to reckon themſelves ac<g ref="char:EOLhyphen"/>countable, as for other miſdemeanors in this Affair, ſo for diſobeying their Maſters in refuſing to pronounce and proclaim what the Common-Hall, whoſe ſervants they are, required and comman<g ref="char:EOLhyphen"/>ded them to do. And ſhould the Commons of <hi>London</hi> quietly digeſt, and overlook the diſobedience and obſtinacy of theſe Fellows whom they have raiſed and made, I will ſay that they have not only forgotten their Authority, but that they deſerve to be ridden and trampled upon by their meaneſt Officers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Johnſon.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
